@@ -14,7 +14,6 @@ public class MainActivity extends Activity {
 	
 	private int primerDigito;
 	private int segundoDigito;
-	private boolean flag = false;
 	private int operacion;
 
 	@Override
