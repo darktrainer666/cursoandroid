@@ -7,6 +7,12 @@
     <uses-sdk
         android:minSdkVersion="8"
         android:targetSdkVersion="16" />
+    
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
 
     <application
         android:allowBackup="true"
@@ -29,6 +35,10 @@
         <activity
             android:name="com.example.cursoandroid2.MessagesMainListActivity"
             android:label="@string/title_activity_messages_main_list" >
+        </activity>
+        <activity
+            android:name="com.example.cursoandroid2.SMSComposerActivity"
+            android:label="@string/title_activity_smscomposer" >
         </activity>
     </application>
 

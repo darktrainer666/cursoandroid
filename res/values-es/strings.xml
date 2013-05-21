@@ -6,4 +6,6 @@
     <string name="title_activity_menu">Menu</string>
 	<string name="calculadora_text">Calculadora</string>
 	<string name="mensajes_text">Mensajes</string>
+	<string name="send_button">Enviar</string>
+	<string name="new_message_button">Nuevo</string>
 </resources>

@@ -35,27 +35,40 @@ public final class R {
         public static final int botonMultiply=0x7f07000f;
         public static final int botonPlus=0x7f070005;
         public static final int botonResult=0x7f070011;
-        public static final int button1=0x7f07001a;
+        public static final int buttonNewMessage=0x7f07001d;
+        public static final int buttonSend=0x7f070022;
         public static final int editResultado=0x7f070000;
         public static final int imageView1=0x7f070015;
-        public static final int lvMessages=0x7f07001b;
-        public static final int menu_settings=0x7f07001c;
+        public static final int lvMessages=0x7f07001e;
+        public static final int lvSMSThread=0x7f070020;
+        public static final int menu_settings=0x7f070026;
+        public static final int progressBar1=0x7f07001c;
         public static final int tableRow1=0x7f070001;
         public static final int tableRow2=0x7f070006;
         public static final int tableRow3=0x7f07000b;
         public static final int tableRow4=0x7f070010;
         public static final int textView1=0x7f070017;
         public static final int textView2=0x7f070019;
+        public static final int tvDate=0x7f070025;
+        public static final int tvGeo=0x7f07001b;
+        public static final int tvGeoReverse=0x7f07001a;
+        public static final int tvNumber=0x7f070023;
+        public static final int tvNumberComposer=0x7f07001f;
+        public static final int tvText=0x7f070024;
+        public static final int tvTextComposer=0x7f070021;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int activity_menu=0x7f030001;
         public static final int activity_messages_main_list=0x7f030002;
+        public static final int activity_smscomposer=0x7f030003;
+        public static final int item_list_sms=0x7f030004;
     }
     public static final class menu {
         public static final int activity_main=0x7f060000;
         public static final int activity_menu=0x7f060001;
         public static final int activity_messages_main_list=0x7f060002;
+        public static final int activity_smscomposer=0x7f060003;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
@@ -63,8 +76,11 @@ public final class R {
         public static final int hello_world=0x7f040001;
         public static final int mensajes_text=0x7f040005;
         public static final int menu_settings=0x7f040002;
+        public static final int new_message_button=0x7f040009;
+        public static final int send_button=0x7f040008;
         public static final int title_activity_menu=0x7f040003;
         public static final int title_activity_messages_main_list=0x7f040006;
+        public static final int title_activity_smscomposer=0x7f040007;
     }
     public static final class style {
         /** 
