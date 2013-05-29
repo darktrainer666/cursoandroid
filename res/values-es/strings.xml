@@ -8,4 +8,5 @@
 	<string name="mensajes_text">Mensajes</string>
 	<string name="send_button">Enviar</string>
 	<string name="new_message_button">Nuevo</string>
+	<string name="postal_button">Codigos Postales</string>
 </resources>

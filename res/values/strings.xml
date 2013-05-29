@@ -9,6 +9,9 @@
     <string name="mensajes_text">Messages</string>
     <string name="title_activity_messages_main_list">SMS</string>
     <string name="title_activity_smscomposer">Composer</string>
-	<string name="send_button">Send</string>
-	<string name="new_message_button">New</string>
+    <string name="send_button">Send</string>
+    <string name="new_message_button">New</string>
+    <string name="postal_button">Postal Codes</string>
+    <string name="title_activity_postales">Codigo Postal</string>
+
 </resources>
